@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+		xmlns:gap   = "http://phonegap.com/ns/1.0"
+		id          = "com.eaaatup.marshy"
+		versionCode = "10" 
+		version     = "1.0" >	
+	<name>Marshy is addicted to food</name>
+	<description>食是生命原動力, 唔搵野食生活在世上有何意義?? 開開心心吃一餐, 平又好, 貴又好, 只要是開心地吃, 每一餐都是極品. 人人口味皆不同, 所有食記只屬我個人口味得出的意見, 純屬參考性質.</description>
+	<author href="http://eaaatup.com" email="alankwok@yahoo.com">Eaatup.com</author>	
+	<icon src="icons/apple-touch-icon-57-precomposed.png" gap:platform="ios" width="57" height="57" />
+	<icon src="icons/apple-touch-icon-72-precomposed.png" gap:platform="ios" width="72" height="72" />
+	<icon src="icons/apple-touch-icon-114-precomposed.png" gap:platform="ios" width="114" height="114" />		
+	<icon src="icons/apple-touch-icon-144-precomposed.png" gap:platform="ios" width="144" height="144" />	
+	<icon src="icons/android-ldpi.png" gap:platform="android" gap:density="ldpi" />
+	<icon src="icons/android-mdpi.png" gap:platform="android" gap:density="mdpi" />
+	<icon src="icons/android-hdpi.png" gap:platform="android" gap:density="hdpi" />
+	<icon src="icons/android-xhdpi.png" gap:platform="android" gap:density="xhdpi" />
+	<icon src="icons/winphone-icon.png" gap:platform="winphone" />
+	<icon src="icons/winphone-tileicon.png" gap:platform="winphone" gap:role="background" />	
+	<gap:splash src="icons/ios-splash-320x480.png" gap:platform="ios" width="320" height="480" />
+	<gap:splash src="icons/ios-splash-640x960.png" gap:platform="ios" width="640" height="960" />
+	<gap:splash src="icons/ios-splash-640x1136.png" gap:platform="ios" width="640" height="1136" />
+	<gap:splash src="icons/ios-splash-1024x748.png" gap:platform="ios" width="1024" height="748" />
+	<gap:splash src="icons/ios-splash-768x1004.png" gap:platform="ios" width="768" height="1004" />	
+	<gap:splash src="icons/ios-splash-2048x4796.png" gap:platform="ios" width="2048" height="1496" />
+	<gap:splash src="icons/ios-splash-1536x2008.png" gap:platform="ios" width="1536" height="2008" />
+	<gap:splash src="icons/android-splash-ldpi.png" gap:platform="android" gap:density="ldpi" />
+	<gap:splash src="icons/android-splash-mdpi.png" gap:platform="android" gap:density="mdpi" />
+	<gap:splash src="icons/android-splash-hdpi.png" gap:platform="android" gap:density="hdpi" />
+	<gap:splash src="icons/android-splash-xhdpi.png" gap:platform="android" gap:density="xhdpi" />
+	<gap:splash src="icons/winphone-splash.png" gap:platform="winphone" />	
+</widget>
+
+
